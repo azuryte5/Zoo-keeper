@@ -1,0 +1,24 @@
+{
+  "name": "Zoo-keeper",
+  "version": "1.0.0",
+  "description": "Module 11 work",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azuryte5/Zoo-keeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azuryte5/Zoo-keeper/issues"
+  },
+  "homepage": "https://github.com/azuryte5/Zoo-keeper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
